@@ -1,0 +1,10 @@
+Name,Age,Salary,Gender
+Alice,25,50000,Female
+Bob,30,60000,Male
+Charlie,,55000,Male
+David,40,,Male
+Eva,28,62000,Female
+Frank,35,58000,Male
+Grace,,60000,Female
+Henry,32,59000,Male
+
